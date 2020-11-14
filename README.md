@@ -4,13 +4,13 @@
 Markdown activity for class today
 
 
-### [Code](../code)
+### [Code](./code)
 
-### [Data](../data)
+### [Data](./data)
 
-### [References](../references)
+### [References](./references)
 
-### [Images](../images)
+### [Images](./images)
 
 ### Who are you? What is your background?
 My name is Justin Bernier - I have a background in information technology and philosophy.  Career wise I started in entry level finance and spent the last 10 years supporting ERP systems like Microsoft dynamics and NetSuite.
